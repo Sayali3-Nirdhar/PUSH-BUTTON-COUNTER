@@ -6,7 +6,7 @@
 
 **INTERN ID** = CT08JED
 
-**DOMAIN** = Embedded Systems
+**DOMAIN** = Embedded Systems 
 
 **BATCH DURATION** = January 20th, 2025 to February 20th, 2025 
 
