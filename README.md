@@ -49,3 +49,7 @@ void loop() {
     }
     lastButtonState = reading; 
 }
+# output of task 1
+![Image](https://github.com/user-attachments/assets/b5a0acfa-616d-4482-bb76-e0d7b0c629fa)
+
+![Image](https://github.com/user-attachments/assets/717498e1-7771-4c6c-8f72-4309d7cd0398)
